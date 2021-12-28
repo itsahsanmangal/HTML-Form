@@ -4,8 +4,8 @@
  
 - Create form UI 👨‍💻
 - Show error messages under specific inputs ⚠️
-- check Required() to accept array of inputs 🔣
-- check Length() to check min and max legnth 〽️
+- check Required() to accept an array of inputs 🔣
+- check Length() to check min and max length 〽️
 - check Email() to validate email with regex ✔️
 - check Passwords Match() to match the confirm password 🔑
  
